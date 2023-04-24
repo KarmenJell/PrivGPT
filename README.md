@@ -1,0 +1,2 @@
+# PrivGPT
+Private GPT clone
